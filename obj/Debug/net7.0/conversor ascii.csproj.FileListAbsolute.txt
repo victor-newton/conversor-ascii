@@ -1,0 +1,15 @@
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/bin/Debug/net7.0/conversor ascii
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/bin/Debug/net7.0/conversor ascii.deps.json
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/bin/Debug/net7.0/conversor ascii.runtimeconfig.json
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/bin/Debug/net7.0/conversor ascii.dll
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/bin/Debug/net7.0/conversor ascii.pdb
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.csproj.AssemblyReference.cache
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.AssemblyInfoInputs.cache
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.AssemblyInfo.cs
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.csproj.CoreCompileInputs.cache
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.dll
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/refint/conversor ascii.dll
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.pdb
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/conversor ascii.genruntimeconfig.cache
+/home/victor/Área de trabalho/ALURA C#/conversor ascii/obj/Debug/net7.0/ref/conversor ascii.dll
